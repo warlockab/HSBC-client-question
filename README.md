@@ -25,6 +25,8 @@ Ans - Java 8 interface changes include static methods and default methods in int
 
 # Que 6: How HashMap is implemented internally? How to improve performance if collision occurs? What new change is made in Java 8 for performance improvement of Map?
 # Que 7: What is the difference between ConcurrentHashMap and HashTable? What is instance level lock and static lock for thread safety?
+Ans- https://javarevisited.blogspot.com/2011/04/difference-between-concurrenthashmap.html
+Ans - https://howtodoinjava.com/java/multi-threading/object-vs-class-level-locking/
 
 # Que 8: Time Complexity in Big-O notation for searching in collections?
 
